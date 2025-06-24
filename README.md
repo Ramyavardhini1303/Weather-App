@@ -11,6 +11,8 @@ A simple weather app built using **HTML**, **CSS**, and **JavaScript**.
 1. Enter a city name in the search box.
 2. Click the search button.
 3. See the current weather instantly!
+## Link
+https://github.com/Ramyavardhini1303/Weather-App
 
 ## Credits
 Weather data powered by [OpenWeatherMap](https://openweathermap.org/).
